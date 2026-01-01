@@ -1,51 +1,51 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Custom-Printed Balloons, Made to Stand Out"
+  content: "Bloonyx creates professional, large-format printed balloons — from custom one-offs to small batches. Designed with care, printed with precision."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Gimme balloons!"
+    link: "/quote"
 
-# Features
+# Features / Sections
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "What Bloonyx Does"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Bloonyx specializes in high-quality balloon printing for private customers and businesses alike. Whether you need a single custom design or a small batch for an event, every print is handled with professional care."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Large-format balloons (16″–36″)"
+      - "Custom designs & small batches"
+      - "Professional screen-print quality"
+      - "Ideal for events, gifts, and branding"
+      - "Printed with durability and consistency in mind"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Start a custom print"
+      link: "/quote"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Custom Prints & Ready-Made Designs"
+    image: "/images/service-2.png"
+    content: "You can either commission a fully custom balloon print or choose from ready-made designs available in the Bloonyx shop. Every design is created in-house and optimized for balloon printing."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Fully custom commissions"
+      - "Curated shop designs"
+      - "Consistent print results"
+      - "Friendly guidance if you’re unsure what you need"
+    button:
+      enable: true
+      label: "Browse the shop"
+      link: "/shop"
+
+  - title: "Printed Like a Lab. Ordered Like a Gift."
+    image: "/images/service-3.png"
+    content: "Behind every Bloonyx balloon is a technical printing process — but ordering stays simple and friendly. No minimum chaos, no overcomplication."
+    bulletpoints:
+      - "Professional print workflow"
+      - "Small-batch friendly"
+      - "Clear communication"
+      - "Occasional limited prints & discounts"
     button:
       enable: false
       label: ""
