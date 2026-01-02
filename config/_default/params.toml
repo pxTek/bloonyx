@@ -57,7 +57,7 @@ show_categories = true
 [announcement]
 enable = true
 expire_days = 7
-content = "<span class='text-center block'>Stay up to date — join our <a class='underline' href='https://t.me/bloonyx' target='_blank' rel='noopener'>Telegram channel</a>.</span>"
+content = "<span class='text-center block'>🎈✨ Stay up to date? Join our <a class='underline' href='https://t.me/bloonyx' target='_blank' rel='noopener'>Telegram channel</a>✨🎈</span>"
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo

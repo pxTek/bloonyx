@@ -12,38 +12,38 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
+name = "Catalogue"
 url = "/elements"
 weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Catalogue"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
+parent = "Catalogue"
+name = "16inch Balloons"
 url = "/blog"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
+parent = "Catalogue"
+name = "18inch Balloons"
 url = "/contact"
 
 [[main]]
-parent = "Pages"
-name = "Authors"
+parent = "Catalogue"
+name = "24inch Balloons"
 url = "/authors"
 
 [[main]]
-parent = "Pages"
-name = "Categories"
+parent = "Catalogue"
+name = "32inch Balloons"
 url = "/categories"
 
 [[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+parent = "Catalogue"
+name = "36inch Balloons"
+url = "/categories"
 
 
 # footer menu
