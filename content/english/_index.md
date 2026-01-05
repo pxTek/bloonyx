@@ -1,13 +1,22 @@
 ---
-# Banner
 banner:
-  title: "Custom-Printed Balloons, Made to Stand Out"
-  content: "Bloonyx creates professional, large-format printed balloons — from custom one-offs to small batches. Designed with care, printed with precision."
+  title: "Order and commission phase will start in late 2026!"
+  content: "Due to costs and management it will take a lot of time until I will be able to take orders for now. If you dont want to miss anything:"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Gimme balloons!"
-    link: "/quote"
+    label: "Subscribe to my Telegram-Updates Channel!"
+    link: "https://t.me/bloonyx"
+
+# Banner
+#banner:
+#  title: "Custom-Printed Balloons, Made to Stand Out"
+#  content: "Bloonyx creates professional, large-format printed balloons — from custom one-offs to small batches. Designed with care, printed with precision."
+#  image: "/images/banner.png"
+#  button:
+#    enable: true
+#    label: "Gimme balloons!"
+#    link: "/quote"
 
 # Features / Sections
 features:
