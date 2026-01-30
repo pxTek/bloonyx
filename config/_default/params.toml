@@ -2,8 +2,8 @@
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/SPnobknologo_white.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/SPnobknologo.png"
-logo_darkmode = "images/SPnobknologo_white.png"
+logo = "images/SPnobknologo.svg"
+logo_darkmode = "images/SPnobknologo_white.svg"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "80px"
