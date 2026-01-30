@@ -13,37 +13,38 @@ weight = 2
 
 [[main]]
 name = "Catalogue"
-url = "/elements"
+url = "/catalogue"
 weight = 3
 
 [[main]]
 weight = 4
 name = "Catalogue"
+url = "/catalogue"
 
 [[main]]
 parent = "Catalogue"
 name = "16inch Balloons"
-url = "/blog"
+url = "/catalogue/types/16"
 
 [[main]]
 parent = "Catalogue"
 name = "18inch Balloons"
-url = "/contact"
+url = "/catalogue/types/18"
 
 [[main]]
 parent = "Catalogue"
 name = "24inch Balloons"
-url = "/authors"
+url = "/catalogue/types/24"
 
 [[main]]
 parent = "Catalogue"
 name = "32inch Balloons"
-url = "/categories"
+url = "/catalogue/types/32"
 
 [[main]]
 parent = "Catalogue"
 name = "36inch Balloons"
-url = "/categories"
+url = "/catalogue/types/36"
 
 [[main]]
 name = "About"

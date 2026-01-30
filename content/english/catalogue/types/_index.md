@@ -8,8 +8,8 @@ draft: false
 
 ## I'm sorry, but it is true - We open at the end of 2026 :(
 
-In a few months you can sroll through all the different balloons we can print for you!
+In a few months you can scroll through all the different balloons we can print for you!
 
-Ranging from a small B105 12 inch Balloon to a big boi 36 inch!
+Ranging from a small **12 inch** Balloon to a big boi **36 inch**!
 
 Brands like BelBal and Cattex will be avalible here :D
