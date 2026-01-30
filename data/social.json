@@ -9,6 +9,11 @@
       "name": "youtube",
       "icon": "fab fa-youtube",
       "link": "https://www.youtube.com/"
+    },
+    {
+      "name": "telegram",
+      "icon": "fab fa-telegram",
+      "link": "https://t.me/bloonyx"
     }
   ]
 }
