@@ -6,12 +6,12 @@ logo = "images/SPnobknologo.svg"
 logo_darkmode = "images/SPnobknologo_white.svg"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "80px"
+logo_width = "90px"
 logo_height = "16px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "BLOONYX"
+logo_text = "BLNYX"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -20,7 +20,7 @@ theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
-contact_form_action = "https://airform.io/contact@sable.red" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "https://formspree.io/f/xykjaovb" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
@@ -55,7 +55,7 @@ show_categories = true
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
 [announcement]
-enable = true
+enable = false
 expire_days = 7
 content = "<span class='text-center block'>🎈✨ Stay up to date? Join our <a class='underline' href='https://t.me/bloonyx' target='_blank' rel='noopener'>Telegram channel</a>✨🎈</span>"
 
@@ -81,7 +81,7 @@ mastodon = "" # Your verification code
 # cookies
 # cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
 [cookies]
-enable = true
+enable = false
 expire_days = 60
 content = "This site uses cookies. By continuing to use this website, you agree to their use. (And they are delicious :3)"
 button = "I Accept :D"

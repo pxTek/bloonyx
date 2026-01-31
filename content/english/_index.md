@@ -3,7 +3,7 @@
 banner:
   title: "Custom Balloons. Designed with Personality."
   content: "BLOONYX is a creative balloon project focused on high-quality custom balloon prints for private celebrations, niche communities, and expressive events."
-  image: "/images/banner.png"
+  image: "/images/62171-225025.jpg"
   button:
     enable: true
     label: "Get in Touch"
@@ -49,5 +49,5 @@ features:
     button:
       enable: true
       label: "Join the Telegram Channel"
-      link: "https://t.me/"
+      link: "https://t.me/bloonyx"
 ---
