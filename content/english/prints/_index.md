@@ -41,9 +41,9 @@ Commission requests and orders will be available **starting at the end of 2026**
 
 Orders can be placed via:
 
-* the **contact form**: **/contact**
+* the **contact form**: **[Contact](/contact)**
 * direct communication (e.g. direct messages)
-* the online shop (**shop.bloonyx.de**), which will become available at a later stage
+* the online shop (**[shop.bloonyx.de](https://shop.bloonyx.de/)**), which will become available at a later stage
 
 The catalogue itself is intended as an **overview of available materials and designs**.
 Orders are handled separately via direct contact or the online shop once it launches.

@@ -3,7 +3,7 @@
 banner:
   title: "Custom Balloons. Designed with Personality."
   content: "BLOONYX is a creative balloon project focused on high-quality custom balloon prints for private celebrations, niche communities, and expressive events."
-  image: "/images/62171-225025.jpg"
+  image: "/images/home/62171-225025.jpg"
   button:
     enable: true
     label: "Get in Touch"
@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "High-Quality Custom Balloon Prints"
-    image: "/images/service-1.png"
+    image: "/images/home/20260102_001319.jpg"
     content: "BLOONYX specializes in carefully designed balloon prints that combine playful creativity with a premium finish. Every design is created with attention to detail and visual clarity."
     bulletpoints:
       - "Custom designs for private celebrations"
@@ -27,7 +27,7 @@ features:
       link: ""
 
   - title: "Designed for Private Customers"
-    image: "/images/service-2.png"
+    image: "/images/home/Design.png"
     content: "BLOONYX primarily serves private customers who want something more personal than standard party decorations. Each project is treated as an individual creative piece."
     bulletpoints:
       - "Birthdays, private events, themed celebrations"
@@ -39,7 +39,7 @@ features:
       link: ""
 
   - title: "Project Status & Future Plans"
-    image: "/images/service-3.png"
+    image: "/images/home/pexels-rudonni-7540648.jpg"
     content: "BLOONYX is currently in development and will officially launch at the end of 2026. Until then, interested people can follow the progress or get in touch early."
     bulletpoints:
       - "Official launch planned for late 2026"

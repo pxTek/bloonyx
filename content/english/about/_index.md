@@ -2,7 +2,7 @@
 title: "Hi! I’m Sable!"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/sable.png"
+image: "/images/sable.svg"
 layout: "about"
 draft: false
 ---
@@ -20,9 +20,9 @@ I specialize in **custom balloon printing**, including **large balloon sizes** a
 
 I work solo, which means:
 
-* Direct communication
-* No unnecessary back-and-forth
-* And full control over quality
+Direct communication
+No unnecessary back-and-forth
+And full control over quality
 
 If I take on a job, I make sure it’s done properly.
 
@@ -34,9 +34,9 @@ By day, I work as an **engineer**, and that technical background strongly influe
 
 This isn’t mass production — it’s a carefully set up process where details matter:
 
-* Proper alignment
-* Clean ink transfer
-* Reliable results, even on larger balloons
+Proper alignment
+Clean ink transfer
+Reliable results, even on larger balloons
 
 If something can be improved, I’ll improve it.
 
@@ -46,9 +46,9 @@ If something can be improved, I’ll improve it.
 
 Balloon printing is a **side business** for me, but I treat it with the same seriousness and care as a full-time operation. I intentionally keep things manageable so I can focus on:
 
-* Custom requests
-* Honest advice
-* And results I’m confident putting my name on
+Custom requests
+Honest advice
+And results I’m confident putting my name on
 
 My goal is simple:
 You should feel **confident that you chose the right person** for your balloons.
@@ -61,66 +61,3 @@ If you’re a private customer, event planner, or just someone with a specific i
 
 Playful ideas welcome.
 Quality guaranteed. 🎉
-
----
-
----
-
-## 🇩🇪 Deutsche Version
-
-# Über Sable
-
-Hi! Ich bin **Sable** — mein echter Name ist **Sebastian** — und ich betreibe einen kleinen, unabhängigen Ballondruck-Service mit einem klaren Fokus: **Qualität vor Quantität** 🎈
-
-Die Idee entstand, weil ich Drucken selbst in die Hand nehmen wollte. Viele Druckereien arbeiten nur mit großen Stückzahlen, festen Formaten oder Standardballons. Kleine Auflagen oder sehr spezielle Wünsche fallen dabei oft komplett raus.
-Genau hier setzt mein Service an.
-
----
-
-## Kleine Auflagen. Große Ballons. Echte Individualität.
-
-Ich habe mich auf **individuellen Ballondruck** spezialisiert — besonders auf **große Ballongrößen** und **kundenspezifische Designs**. Ob **100 Stück**, ein einzelnes besonderes Motiv oder ein Ballon, den es so sonst kaum gibt: In vielen Fällen lässt sich das bei mir realisieren.
-
-Da ich alleine arbeite, bedeutet das für dich:
-
-* Direkter Kontakt
-* Klare Absprachen
-* Und volle Kontrolle über die Qualität
-
-Wenn ich einen Auftrag annehme, dann mache ich ihn auch ordentlich.
-
----
-
-## Technik, die man sieht
-
-Hauptberuflich arbeite ich als **Ingenieur**, und genau das prägt auch meinen Ballondruck. Ich liebe es, **Maschinen zu bauen, anzupassen und zu optimieren**, Prozesse fein einzustellen und Ergebnisse reproduzierbar gut zu machen.
-
-Hier geht es nicht um Massenproduktion, sondern um saubere Arbeit:
-
-* Exakte Ausrichtung
-* Sauberer Farbauftrag
-* Zuverlässige Ergebnisse — auch bei großen Ballons
-
-Wenn etwas besser geht, dann wird es besser gemacht.
-
----
-
-## Nebenprojekt, aber mit Anspruch
-
-Der Ballondruck ist für mich ein **Nebengewerbe**, wird aber mit vollem Anspruch betrieben. Ich halte die Auftragslage bewusst überschaubar, um mich auf das Wesentliche zu konzentrieren:
-
-* Sonderwünsche
-* Ehrliche Beratung
-* Und Ergebnisse, hinter denen ich zu 100 % stehe
-
-Mein Ziel:
-Du sollst dir sicher sein, **die richtige Wahl getroffen zu haben**.
-
----
-
-## Lust auf etwas Besonderes?
-
-Egal ob Privatkunde, Event oder einfach eine verrückte Idee — melde dich gern. Ich bespreche Designs, Größen und Möglichkeiten offen und realistisch.
-
-Kreative Ideen sind willkommen.
-Qualität ist gesetzt. 🎉
