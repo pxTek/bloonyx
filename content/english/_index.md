@@ -1,9 +1,9 @@
 ---
 # Banner
 banner:
-  title: "Custom Balloons. Designed with Personality."
-  content: "BLOONYX is a creative balloon project focused on high-quality custom balloon prints for private celebrations, niche communities, and expressive events."
-  image: "/images/home/62171-225025.jpg"
+  title: "Balloons. Expressive. Personal."
+  content: "BLOONYX is a creative balloon project focused on offering high-quality balloons from established manufacturers for private celebrations, niche communities, and expressive events. Carefully selected brands, consistent quality, and a strong sense of style."
+  image: "/images/logo/bloonyx_slogan-white.svg"
   button:
     enable: true
     label: "Get in Touch"
@@ -11,28 +11,29 @@ banner:
 
 # Features
 features:
-  - title: "High-Quality Custom Balloon Prints"
+  - title: "Selected Balloon Brands"
     image: "/images/home/20260102_001319.jpg"
-    content: "BLOONYX specializes in carefully designed balloon prints that combine playful creativity with a premium finish. Every design is created with attention to detail and visual clarity."
+    content: "BLOONYX offers a curated selection of balloons from trusted manufacturers known for quality, color consistency, and durability. The focus is on reliable products suitable for expressive and private event setups."
     bulletpoints:
-      - "Custom designs for private celebrations"
-      - "Premium look with playful aesthetics"
-      - "Carefully tested materials and print quality"
-      - "Designed for unique events and communities"
-      - "Focus on visual impact and durability"
-      - "**Quality-first creative approach**"
+      - "Carefully selected brands: Cattex, BelBal, Qualatex, Globos"
+      - "Consistent quality and material standards"
+      - "Wide range of colors and sizes"
+      - "Suitable for private and themed celebrations"
+      - "Focus on durability and visual impact"
+      - "**Curated instead of mass-market**"
     button:
       enable: false
       label: ""
       link: ""
 
-  - title: "Designed for Private Customers"
+  - title: "For Private Customers"
     image: "/images/home/Design.png"
-    content: "BLOONYX primarily serves private customers who want something more personal than standard party decorations. Each project is treated as an individual creative piece."
+    content: "BLOONYX is primarily aimed at private customers who value quality and aesthetics over generic party supplies. The project serves individuals, small groups, and creative communities."
     bulletpoints:
       - "Birthdays, private events, themed celebrations"
-      - "Expressive and community-friendly designs"
-      - "Personal communication and consultation"
+      - "Community-friendly and expressive setups"
+      - "Personal communication and transparent handling"
+      - "Small-scale and individual orders"
     button:
       enable: false
       label: ""
@@ -40,12 +41,13 @@ features:
 
   - title: "Project Status & Future Plans"
     image: "/images/home/pexels-rudonni-7540648.jpg"
-    content: "BLOONYX is currently in development and will officially launch at the end of 2026. Until then, interested people can follow the progress or get in touch early."
+    content: "BLOONYX is currently in development and will officially launch at the end of 2026. The initial focus is on balloon sales; custom balloon printing is planned as a future expansion."
     bulletpoints:
       - "Official launch planned for late 2026"
+      - "Initial focus on selling quality balloons"
+      - "Custom printing planned for a later stage"
       - "Telegram channel with previews and updates"
-      - "Early contact for future commissions"
-      - "Selected business projects available upon request"
+      - "Early contact for availability and questions"
     button:
       enable: true
       label: "Join the Telegram Channel"
